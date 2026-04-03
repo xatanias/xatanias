@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/FbbMPkW" alt="gif" width="400"/>
+  <img src="https://cdn.jumpshare.com/preview/ugG_UMFVSWLLP_ZXOwdseiYYHmZxmVpT2k9ve9Ya318UnLDkr1clRXIXMz4tgULYCh3T6ronzGvvsCjcZpIt_lN1KKNo-Lh2WBN5cB8J-iY" alt="gif" width="400"/>
 </p>
 
 <p align="center">5/6/20</p>
