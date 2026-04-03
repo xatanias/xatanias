@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jumpshare.com/s/jth77uXJJa77aYShfP1R" alt="gif" width="400"/>
+  <img src="https://d36vu4awtdgnqw.cloudfront.net/1xq7r%2Fpreview%2F76852473%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1775223790&Signature=XyYGzht1ERH0lN8IXEhoAl4U~2hXE7IB~00Y6FqnS8~gbdDxoUEGinSvgPpIx27cNMqSOcb~R8bhlQnBzrJKgu6~ihbgIBsFb-NRAK~RYw9nVRwLywE~e5Qhcv9oMzQQbNqrNVvGZ~8Mp3TRYELdP61fB2pXfOQtmFmtxcQ-R3PDX~PYRsakCRPCoZ3jD~Kfdjp7WS4JUxHhwNfou7TcltUQStKgc12ynobUgDYUE0FwSEtwdrN6Qgj8iI5PPCZkU3m-7JUazuOjmeDGQXz3CuW4bGe7MW6oDic03jtwGXj7vTBCl3LPzw7k7wVxzXGHB0OhSPrDtTf3UF0bgnSX7w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="gif" width="400"/>
 </p>
 
 <p align="center">5/6/20</p>
