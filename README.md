@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./xaatn.png" width="500"/>
+  <img src="./xaatn.png" width="250" height="250"/>
 </p>
 
 <p align="center">5/6/20</p>
